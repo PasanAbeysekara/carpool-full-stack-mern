@@ -19,7 +19,7 @@ This project is a carpooling web application designed to facilitate easy and eff
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/carpooling-web-app.git
+   git clone https://github.com/PasanAbeysekara/carpool-full-stack-mern
    cd carpooling-web-app
    ```
 
