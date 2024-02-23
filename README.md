@@ -20,7 +20,7 @@ This project is a carpooling web application designed to facilitate easy and eff
 
    ```bash
    git clone https://github.com/PasanAbeysekara/carpool-full-stack-mern
-   cd carpooling-web-app
+   cd carpool-full-stack-mern
    ```
 
 2. **Install Dependencies**
