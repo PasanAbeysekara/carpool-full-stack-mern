@@ -11,11 +11,11 @@ const profileSchema = new mongoose.Schema({
   },
   displayName: {
     type: String,
-    required: false // Adjust the requirement based on your needs
+    required: false
   },
   bio: {
     type: String,
-    required: false // Adjust the requirement based on your needs
+    required: false
   }
 });
 
